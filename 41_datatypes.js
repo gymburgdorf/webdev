@@ -37,7 +37,7 @@ let sum = 0
 const d = 8
 const PI = 3.1415926535
 const temperature = 23.5
-const c = 3e8
+const speedOfLight = 3e8
 let x = 3
 let y = 4
 
